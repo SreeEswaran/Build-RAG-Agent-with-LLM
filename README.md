@@ -5,7 +5,7 @@
 
 Welcome to the RAG Agent Project! This repository contains the implementation of a Retrieval-Augmented Generation (RAG) agent using Large Language Models (LLMs). RAG agents combine the power of information retrieval with text generation, enabling applications such as intelligent question-answering systems, conversational agents, and more.
 
-If you're interested in a detailed, step-by-step explanation of how this project was built, including code walkthroughs and in-depth analysis, check out my [Medium blog post](<[insert-your-medium-blog-link-here](https://blog.gopenai.com/building-rag-agents-using-llms-step-by-step-guide-dfe1bfe0bf54)>). 
+If you're interested in a detailed, step-by-step explanation of how this project was built, including code walkthroughs and in-depth analysis, check out my [Medium blog post]([(https://blog.gopenai.com/building-rag-agents-using-llms-step-by-step-guide-dfe1bfe0bf54)]). 
 
 ## Features
 
