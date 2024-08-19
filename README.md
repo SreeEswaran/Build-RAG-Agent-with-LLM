@@ -15,20 +15,32 @@ If you're interested in a detailed, step-by-step explanation of how this project
 - **Training and Fine-Tuning**: Easily fine-tune pre-trained LLMs for your specific use case.
 - **Deployment Ready**: Integrate the RAG agent into your applications for practical use.
 
-## Project Structure
+## Install the dependencies
 
-```plaintext
-RAG_Agent_Project/
-│
-├── README.md
-├── requirements.txt
-├── main.py
-├── src/
-│   ├── __init__.py
-│   ├── retrieval.py
-│   ├── generation.py
-│   ├── ranking.py
-│   └── training.py
-├── data/
-│   └── dummy_data.py
-└── results/
+```bash
+    git clone https://github.com/SreeEswaran/Build-RAG-Agent-with-LLM.git
+    cd Build-RAG-Agent-with-LLM
+    pip install -r requirements.txt
+```
+
+## Usage
+
+1. Run the RAG Agent
+   ```bash
+   python main.py
+   ```
+2. Finetune the model
+   ```bash
+   python src/training.py
+   ```
+
+## Contact
+
+If you have any questions, suggestions, or just want to connect, feel free to reach out through the following platforms:
+
+- **Topmate-For mentoring, coaching or guidance**: [Your Topmate Profile](https://topmate.io/SreeEswaran)
+- **Medium Blogs**: [Your Medium Profile](https://www.medium.com/@SreeEswaran)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sree-deekshitha-yerra)
+
+Don't forget to follow me for more content and updates!
+
