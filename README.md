@@ -38,9 +38,9 @@ If you're interested in a detailed, step-by-step explanation of how this project
 
 If you have any questions, suggestions, or just want to connect, feel free to reach out through the following platforms:
 
-- **Topmate-For mentoring, coaching or guidance**: [Your Topmate Profile](https://topmate.io/SreeEswaran)
-- **Medium Blogs**: [Your Medium Profile](https://www.medium.com/@SreeEswaran)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sree-deekshitha-yerra)
+- **Topmate-For mentoring, coaching or guidance**: [Link to my Topmate Profile](https://topmate.io/SreeEswaran)
+- **Medium Blogs**: [link to my Medium Profile](https://www.medium.com/@SreeEswaran)
+- **LinkedIn**: [Link to my LinkedIn Profile](https://www.linkedin.com/in/sree-deekshitha-yerra)
 
 Don't forget to follow me for more content and updates!
 
