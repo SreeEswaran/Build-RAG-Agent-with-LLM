@@ -11,7 +11,7 @@ def main():
     retrieved_docs = retrieve(query)
 
     # Step 2: Generate a response based on the retrieved documents
-    response = generate_response(retrieved_docs)
+    response =generate_response(retrieved_docs)
 
     # Step 3: Rank the response to find the best match
     ranked_response = rank_responses([response], query)
