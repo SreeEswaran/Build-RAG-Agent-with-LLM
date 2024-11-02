@@ -1,5 +1,4 @@
 from transformers import Trainer, TrainingArguments
-
 def fine_tune_model(model, train_dataset, eval_dataset):
     training_args = TrainingArguments(
         output_dir="./results",
